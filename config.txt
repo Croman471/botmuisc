@@ -1,4 +1,4 @@
-﻿token=NjM0Njc5MzUxOTQ1NzIzOTA1.XanZTA.gJocCcrX9aq7xEZ-7B5pkCczSms
+﻿token=NjM0Nzc2OTc0NTc3MTA2OTQ0.XancKQ.zQz-8TGdc3ZAZnXsuhiBNKXi5i4
 owner=634668715002298419
 prefix=-
 game=Music
